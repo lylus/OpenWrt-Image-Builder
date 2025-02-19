@@ -14,9 +14,3 @@ bash
 luci-i18n-msd_lite-zh-cn
 luci-app-passwall
 luci-app-openclash
-v2dat
-v2ray-geoip
-v2ray-geosite
-mosdns
-luci-app-mosdns
-luci-i18n-mosdns-zh-cn
