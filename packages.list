@@ -85,7 +85,6 @@ coremark
 curl
 jq
 bash
-luci-i18n-msd_lite-zh-cn
 luci-app-passwall
 luci-app-openclash
 luci-i18n-smartdns-zh-cn
