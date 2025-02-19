@@ -6,10 +6,11 @@ luci-i18n-wol-zh-cn
 luci-i18n-zerotier-zh-cn
 luci-i18n-frpc-zh-cn
 luci-i18n-wechatpush-zh-cn
-luci-i18n-udpxy-zh-cn
+luci-i18n-mosdns-zh-cn
 coremark
 jq
 bash
 luci-i18n-msd_lite-zh-cn
 luci-app-passwall
 luci-app-openclash
+luci-app-mosdns
