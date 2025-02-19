@@ -10,7 +10,9 @@ luci-i18n-package-manager-zh-cn
 coremark
 jq
 bash
+mosdns
 luci-i18n-msd_lite-zh-cn
 luci-app-passwall
 luci-app-openclash
 luci-app-mosdns
+luci-i18n-mosdns-zh-cn
