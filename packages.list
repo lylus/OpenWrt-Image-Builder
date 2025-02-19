@@ -8,6 +8,7 @@ luci-i18n-frpc-zh-cn
 luci-i18n-wechatpush-zh-cn
 luci-i18n-package-manager-zh-cn
 coremark
+curl
 jq
 bash
 luci-i18n-msd_lite-zh-cn
