@@ -69,3 +69,8 @@ luci-i18n-filemanager-zh-cn
 luci-i18n-attendedsysupgrade-zh-cn
 luci-i18n-ddns-go-zh-cn
 luci-i18n-dashboard-zh-cn
+kmod-fuse
+kmod-usb-net-ipheth
+kmod-usb-net-rndis
+usb-modeswitch
+kmod-usb-net-huawei-cdc-ncm
