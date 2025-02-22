@@ -90,3 +90,6 @@ luci-app-openclash
 luci-i18n-smartdns-zh-cn
 luci-i18n-homeproxy-zh-cn
 luci-i18n-filemanager-zh-cn
+luci-i18n-attendedsysupgrade-zh-cn
+luci-i18n-ddns-go-zh-cn
+luci-i18n-daed-zh-cn
