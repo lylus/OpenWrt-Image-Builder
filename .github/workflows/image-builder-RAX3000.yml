@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 env:
-  PROFILE: generic
+  PROFILE: cmcc_rax3000m
   UCI_CUSTOM_FILE: uci-custom
   PACKAGES_LIST_FILE: packages.list
   PACKAGES_FOLDER: packages
