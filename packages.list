@@ -85,6 +85,7 @@ coremark
 curl
 jq
 bash
+qemu-ga
 luci-app-passwall
 luci-app-openclash
 luci-i18n-smartdns-zh-cn
